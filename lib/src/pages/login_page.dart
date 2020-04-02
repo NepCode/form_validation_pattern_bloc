@@ -123,7 +123,7 @@ class LoginPage extends StatelessWidget {
       child: TextField(
         keyboardType: TextInputType.emailAddress,
         decoration: InputDecoration(
-          icon: Icon(Icons.alternate_email, color: Colors.deepPurple),
+          icon: Icon(Icons.lock_outline, color: Colors.deepPurple),
           hintText: 'password',
           labelText: 'Password',
         ),
