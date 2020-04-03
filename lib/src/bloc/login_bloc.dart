@@ -21,11 +21,3 @@ class LoginBloc {
   }
 
 }
-
-
-
-/*
-* static LoginBloc of ( BuildContext context ){
-   return context.dependOnInheritedWidgetOfExactType<Provider>().loginBloc;
-}
-* */
